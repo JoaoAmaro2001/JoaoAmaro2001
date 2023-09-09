@@ -1,3 +1,5 @@
+#  About me
+
 - 👋 Hi, I’m a neuroscience student based at University of Lisbon.
 - 👀 I’m interested in computational neuroscience, more specifically in neuroimaging data analysis.
 - 📫 How to reach me - joaopvamaro@gmail.com
